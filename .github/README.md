@@ -1,1 +1,1 @@
-../security-txt/README.md
+try../security-txt/README.md
